@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>7 Tage Transparent – Achim Mentzen | Living Sculpture 24/7</title>
+<meta name="description" content="100 % sichtbar, 24/7 ausnahmslos. Auch beim Toilettengang – voll sichtbar, max. 50 cm Abstand. Dialog möglich. Nackt, lebendig, Mensch. Kostenlos für Galerien und Museen.">
+<meta name="author" content="Achim Mentzen">
+<meta property="og:title" content="7 Tage Transparent – Achim Mentzen | 100 % sichtbar 24/7 ausnahmslos inkl. Toilettengang">
+<meta property="og:description" content="Eine Woche als lebendes Kunstobjekt. 100 % sichtbar 24/7 ausnahmslos. Auch beim Toilettengang – voll sichtbar, max. 50 cm Abstand. Dialog möglich.">
+<meta property="og:type" content="website">
+<style>
+:root {
+  --black: #0a0a0a;
+  --surface: #111;
+  --border: #1e1e1e;
+  --white: #f0ebe0;
+  --dim: #777;
+  --gold: #c8a96e;
+  --gold-dim: rgba(200,169,110,0.15);
+}
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+html { scroll-behavior: smooth; }
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif;
+  background: var(--black);
+  color: var(--white);
+  line-height: 1.8;
+}
+
+/* NAV */
+nav {
+  position: fixed; top: 0; left: 0; right: 0; z-index: 99;
+  display: flex; justify-content: space-between; align-items: center;
+  padding: .9rem 2rem;
+  background: rgba(10,10,10,.95);
+  border-bottom: 1px solid var(--border);
+}
+.nav-name { font-size: 12px; letter-spacing: .2em; text-transform: uppercase; color: var(--dim); text-decoration: none; }
+.nav-links a {
+  color: var(--dim); text-decoration: none;
+  font-size: 12px; letter-spacing: .1em; text-transform: uppercase;
+  margin-left: 1.5rem; transition: color .2s;
+}
+.nav-links a:hover { color: var(--gold); }
+
+/* HERO */
+#hero {
+  min-height: 100vh;
+  display: flex; flex-direction: column; justify-content:
