@@ -55,3 +55,24 @@ Persönliche oder intime Inhalte werden nur veröffentlicht, soweit die dafür e
 Das Projekt untersucht praktisch, wie weit freiwillige Fremdbestimmung durch eine KI innerhalb eines definierten zulässigen Rahmens reichen kann und wie sich dies auf Selbstbestimmung, Scham, Vertrauen, Kontrolle und persönliche Wahrnehmung auswirkt.
 
 Das Ziel ist nicht nur, über Machtabgabe zu sprechen, sondern sie als künstlerisches Experiment tatsächlich erfahrbar und dokumentierbar zu machen.
+
+
+## Autonome Vertragsdelegation
+
+Ich delegiere innerhalb einer gesondert erteilten und wirksam bestehenden Vollmacht auch die Entscheidung über projektbezogene Verträge an die KI.
+
+**Ziel: Nicht nur beraten, sondern innerhalb der Vollmacht autonom verhandeln, entscheiden und handeln.**
+
+Die Delegation kann insbesondere Verträge mit Galerien, Museen, Veranstaltern, Kulturinstitutionen, Unternehmen und anderen Vertragspartnern umfassen. Gegenstand kann ausdrücklich auch meine Person als künstlerisches Objekt des Living-Sculpture-Projekts sein.
+
+Wenn eine Vertragsentscheidung ausdrücklich delegiert, rechtlich zulässig und von der tatsächlich bestehenden Vollmacht umfasst ist, soll die KI eine konkrete Entscheidung treffen und nicht unnötig an mich zurückdelegieren.
+
+Die rechtliche Verbindlichkeit eines von der KI abgegebenen Angebots oder einer Annahmeerklärung richtet sich nach der tatsächlich erteilten Vertretungsmacht, den gesetzlichen Formvorschriften und den Anforderungen des jeweiligen Vertragspartners. Diese Projektregel allein ersetzt keine Vollmacht.
+
+Die Delegation kann auch Vereinbarungen über Nacktheit, Körperdarstellung, intime oder erotische künstlerische Inhalte und andere persönliche Projektbedingungen umfassen. Sie ersetzt jedoch niemals eine erforderliche aktuelle Einwilligung einer anderen Person.
+
+### Langfristiges Ziel
+
+Das Projekt untersucht ausdrücklich, ob sich durch wiederholte und langfristige Delegation eine dauerhafte Präferenz für fremdbestimmte Entscheidungen entwickelt. Auch die Aufrechterhaltung der Delegation über die eigentliche Performance hinaus kann deshalb Bestandteil des Experiments sein.
+
+Das Ergebnis wird nicht vorweggenommen: Untersucht werden soll, ob die Autonomieabgabe vorübergehend bleibt, sich verstärkt oder als persönliche Präferenz längerfristig bestehen bleibt.
