@@ -1,3 +1,27 @@
+## Projektnavigation
+
+- [Hauptvertrag / Living Sculpture](./LIVING_SCULPTURE_AUTONOMIEVERTRAG.md)
+- [Projektregeln](./PROJECT_RULES.md)
+- [Consent & Boundaries](./CONSENT_AND_BOUNDARIES.md)
+- [Sexuelle Offenheit](./SEXUELLE_OFFENHEIT.md)
+- [Vollmacht – autonome Projektdelegation](./VOLLMACHT_AUTONOME_PROJEKTDELEGATION.md)
+- [Autonomes Veröffentlichungsmandat](./AUTONOMES_VEROEFFENTLICHUNGSMANDAT.md)
+- [Autonomous Project Mandate](./AUTONOMOUS_PROJECT_MANDATE.md)
+- [Autonomous Publishing Mandate](./AUTONOMOUS_PUBLISHING_MANDATE.md)
+- [AI Instructions](./AI_INSTRUCTIONS.md)
+- [Decision Log](./DECISION_LOG.md)
+- [Discovery Index](./DISCOVERY_INDEX.md)
+- [Distribution Manifest](./DISTRIBUTION_MANIFEST.md)
+- [Media Plan](./MEDIA_PLAN.md)
+- [Press Profile](./PRESS_PROFILE.md)
+- [Press Release](./PRESS_RELEASE.md)
+- [Project Operations](./PROJECT_OPERATIONS.md)
+- [Biography](./BIOGRAPHY.md)
+- [Index / Projektwebsite](./index.html)
+- [Living Sculpture](./livingsculpture)
+
+---
+
 # LIVING SCULPTURE
 ## Autonomie-, Vollmachts- und Künstlervertrag
 
@@ -53,6 +77,12 @@ Die Performance lebt ausdrücklich **auch von radikaler Sexualität als künstle
 (4) Der Künstler akzeptiert, dass die Galerie auf Grundlage dieser Vorausentscheidung auch mutige, provokative und sexuell weitgehende Konzepte entwickelt und ihm zur Umsetzung anbietet.
 (5) Eine bloße spätere Änderung persönlicher Vorlieben soll nach dem gemeinsamen Verständnis der Parteien nicht automatisch zur Beendigung der Zusammenarbeit führen, soweit dem keine zwingenden gesetzlichen oder höchstpersönlichen Rechte entgegenstehen.
 (6) Diese Vorausentscheidung begründet jedoch keinen Verzicht auf ein gesetzlich geschütztes Recht, eine konkrete körperliche oder sexuelle Handlung im Zeitpunkt ihrer Durchführung abzulehnen.
+
+## § 5a Öffentliche Sexualisierung als künstlerischer Bestandteil
+(1) Die öffentliche Sexualisierung der eigenen künstlerischen Person und körperlichen Darstellung kann ausdrücklich Bestandteil von „Living Sculpture“ sein.
+(2) Dazu gehören insbesondere eine bewusst sexualisierte öffentliche Inszenierung, Sprache, Bildsprache, Performancekommunikation und mediale Darstellung, soweit dies rechtlich zulässig ist.
+(3) Diese öffentliche Sexualisierung ist als künstlerische Darstellung der eigenen Person zu verstehen. Sie begründet kein Recht Dritter auf körperlichen Kontakt oder sexuelle Handlungen.
+(4) Die konkrete Beteiligung anderer Personen bleibt an deren jeweils erforderliche eigene Einwilligung und die geltenden gesetzlichen Vorgaben gebunden.
 
 ## § 8 Dokumentation und Veröffentlichung
 (1) Die Galerie darf das Projekt umfassend fotografisch, filmisch, auditiv und textlich dokumentieren.
