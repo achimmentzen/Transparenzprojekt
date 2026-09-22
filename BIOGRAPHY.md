@@ -92,7 +92,7 @@ Seit 2026 entwickle ich **Living Sculpture** als öffentliches künstlerisches u
 
 Dabei stelle ich nicht nur ein Kunstobjekt aus.
 
-**Ich selbst werde zum Gegenstand der Auseinandersetzung.**
+**Ich selbst werde zum nackten Gegenstand der Diskussion, Betrachtung und Auseinandersetzung.**
 
 Mein Körper wird sichtbar.
 
