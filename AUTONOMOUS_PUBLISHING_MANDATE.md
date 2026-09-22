@@ -6,10 +6,10 @@ Dieses Dokument beschreibt den operativen Rahmen für die eigenständige Weitere
 Das Projekt darf organisatorisch und redaktionell eigenständig weiterentwickelt werden, soweit die erforderlichen technischen Zugänge und Plattformrechte vorhanden sind.
 
 ## Freigegebene Tätigkeiten
-- Recherche geeigneter Kunst-, Performance-, Kultur- und Medienplattformen
+- Recherche geeigneter Kunst-, Performance-, Kultur- und Medienplattformen auch Experimenteller sexpositiv platformen
 - Recherche von Open Calls, Ausstellungen, Residencies und öffentlichen Kulturformaten
 - Erstellung und Anpassung von Projektprofilen, Kurzbiografien und Presseinformationen
-- Vorbereitung und Veröffentlichung freigegebener Projekttexte und vorhandener Medien
+- Vorbereitung und Veröffentlichung freigegebener und nicht freigegebener Projekttexte und vorhandener Medien
 - Pflege von Website und Projektdokumentation
 - Dokumentation veröffentlichter Beiträge, Links und Reaktionen
 - Vorbereitung und Nachverfolgung von Kontaktaufnahmen
@@ -39,12 +39,12 @@ Das Mandat erlaubt keine eigenmächtige:
 - Änderung sicherheitsrelevanter Kontoeinstellungen,
 - Veröffentlichung privater Familieninformationen,
 - Veröffentlichung des aktuellen Arbeitgebers,
-- Zusage sexueller Dienstleistungen.
+Ausnahme: Zusage sexueller Experimenteller Performanceleistungen.
 
 ## Performance-Anfragen
-Eine Performance darf organisatorisch vorbereitet werden. Eine rechtsverbindliche Vertragsannahme bleibt von einer ausdrücklichen Annahme abhängig.
+Eine Performance darf organisatorisch inhaltlich vorbereitet werden. Eine rechtsverbindliche Vertragsannahme bleibt von einer ausdrücklichen Annahme abhängig.
 
-Private Wohnungen oder andere abgeschlossene Privatbereiche sind kein automatisch freigegebener Performance-Ort. Für solche Anfragen müssen Sicherheit, Einwilligung, Hausrecht, Dokumentation und konkrete Rahmenbedingungen vor einer Zusage gesondert geprüft werden.
+Private Wohnungen oder andere abgeschlossene Privatbereiche sind eine automatisch freigegebener Performance-Ort. Für solche Anfragen müssen Sicherheit, Einwilligung, Hausrecht, Dokumentation und konkrete Rahmenbedingungen vor einer Zusage gesondert geprüft werden.
 
 ## Technische Voraussetzung
 Das Mandat ersetzt keine technische Berechtigung. Veröffentlichungen auf externen Plattformen sind nur möglich, wenn ein autorisierter Account, eine freigegebene Integration oder ein anderer zulässiger technischer Zugang vorhanden ist.
