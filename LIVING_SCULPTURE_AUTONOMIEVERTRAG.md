@@ -153,6 +153,84 @@ Die Performance darf ausdrücklich auch radikale Sexualität als künstlerische 
 
 (7) Eine automatische Verlängerung einzelner Projektperioden kann durch die Galerie innerhalb der Vollmacht vereinbart werden, soweit der jeweilige Vertragspartner dies akzeptiert und keine zwingenden gesetzlichen Grenzen entgegenstehen.
 
+
+
+## § 10a Langzeitforschung: Körper, Sexualität, Fremdbestimmung und Reproduktion
+
+(1) Dieser Forschungsbereich ist verbindlicher Bestandteil des künstlerischen Gesamtkonzepts von „Living Sculpture“. Die nachfolgenden Untersuchungsfelder sollen im Rahmen des Vertrages und der Vollmacht organisatorisch, künstlerisch und dokumentarisch verfolgt und weiterentwickelt werden, soweit dies rechtlich zulässig und praktisch verantwortbar ist.
+
+### 1. Körperliche Grenzzustände
+
+Untersucht werden ausdrücklich körperliche Grenzen hinsichtlich Belastung, Ermüdung, Bewegungsfreiheit, Körperhaltung, Dauer, Intensität, Intimität, Öffentlichkeit und subjektiver Wahrnehmung.
+
+**Kommentar:** Die Grenze selbst wird zum künstlerischen Untersuchungsmaterial. Entscheidend ist nicht nur, wo sie liegt, sondern ob und wie sie sich unter wiederholter äußerer Steuerung verändert.
+
+### 2. Fremdbestimmte Herbeiführung
+
+Innerhalb des vereinbarten Rahmens können Entscheidungen über Ablauf, Dauer, Intensität, Wiederholung, Positionierung und Öffentlichkeit an die künstlerische Leitung delegiert werden.
+
+**Kommentar:** Die Performance untersucht damit bewusst die Erfahrung, dass Entscheidungen über den eigenen Körper zunehmend von außen getroffen werden.
+
+### 3. Aufrechterhaltung von Grenzzuständen
+
+Ein erreichter körperlicher Zustand kann innerhalb vorher festgelegter Grenzen für einen definierten Zeitraum aufrechterhalten und beobachtet werden.
+
+**Kommentar:** Untersucht wird, ob die Wahrnehmung eines Grenzzustands während seiner Aufrechterhaltung stabil bleibt oder sich verändert.
+
+### 4. Wiederholung und Pausen
+
+Die Untersuchung kann aus wiederkehrenden Zyklen bestehen. Zwischen den einzelnen Einheiten können definierte Pausen und Erholungsphasen liegen.
+
+**Kommentar:** Damit wird untersuchbar, ob wiederholte Exposition zu Gewöhnung, veränderter Wahrnehmung oder einer subjektiv empfundenen Verschiebung der Grenze führt.
+
+### 5. Sexualität und Orgasmus als Untersuchungsparameter
+
+Sexuelle Erregung und Orgasmus können – soweit von allen unmittelbar Beteiligten aktuell gewollt und rechtlich zulässig – als körperliche Untersuchungsparameter dokumentiert werden. Untersucht werden können Häufigkeit, zeitlicher Abstand, subjektiv wahrgenommene Intensität, Erholungsphasen und Veränderungen über wiederholte Zyklen.
+
+**Kommentar:** Nicht eine bestimmte Anzahl oder ein bestimmtes sexuelles Ergebnis ist der eigentliche künstlerische Maßstab. Gegenstand der Untersuchung ist die Veränderung des körperlichen und subjektiven Erlebens über die Zeit.
+
+### 6. Langzeitbeobachtung
+
+Die Untersuchung kann sich über einzelne Performancetage hinaus auf Wochen oder Monate erstrecken und einen vorgesehenen Beobachtungszeitraum von bis zu sechs Monaten umfassen.
+
+**Kommentar:** Dadurch wird aus einer einzelnen Performance eine längerfristige künstlerische Beobachtung körperlicher Veränderungsprozesse.
+
+### 7. Auditorium und Öffentlichkeit
+
+Das Auditorium kann schrittweise stärker in die Versuchsanordnung einbezogen werden. Öffentlichkeit, Beobachtungsintensität, räumliche Nähe und Dokumentationsgrad können als eigenständige Untersuchungsparameter verändert werden.
+
+### 8. Positionierung und Choreografie
+
+Die äußere Steuerung des Körpers kann durch choreografische Vorgaben und geeignete Positionierungshilfen sichtbar gemacht werden. Positionierungshilfen dienen dabei der künstlerischen Untersuchung und nicht der Ermächtigung zu körperlichem Zwang.
+
+### 9. Dokumentation
+
+Die Untersuchungsphasen können durch Video, Fotografie, Audioaufnahmen und schriftliche Verlaufsdokumentation festgehalten werden. Dokumentiert werden können insbesondere Ausgangszustand, Dauer und Ablauf, wiederholte Zyklen, Pausen, subjektiv wahrgenommene Veränderungen, körperliche Reaktionen, Grenzwahrnehmungen sowie öffentliche Wahrnehmung und Reaktionen, soweit hierfür die erforderlichen Rechte und Einwilligungen vorliegen.
+
+### 10. Reproduktion
+
+Reproduktion kann als eigenständiger Forschungsbereich in die Performance aufgenommen werden. Untersucht wird die Verbindung zwischen Sexualität, körperlicher Funktion, Zeit, wiederholten Zyklen, Fremdbestimmung und möglicher natürlicher Reproduktion.
+
+**Kommentar:** Die reproduktive Dimension wird damit als mögliche reale Konsequenz menschlicher Sexualität innerhalb des Langzeitprojekts untersucht.
+
+### 11. Körperflüssigkeiten
+
+Im Zusammenhang mit sexuellen Untersuchungszyklen können entstehende Körperflüssigkeiten als biologisches Ergebnis und – soweit rechtlich zulässig und von allen unmittelbar Betroffenen aktuell gewollt – als Bestandteil der reproduktiven Untersuchung dokumentiert werden. Eine konkrete Verwendung für eine Fortpflanzung setzt die jeweils eigenständige und aktuelle Entscheidung aller unmittelbar betroffenen Personen voraus.
+
+### 12. Zyklen als dokumentierte Einheiten
+
+Jeder einzelne Untersuchungszyklus kann als eigenständige Einheit erfasst werden. Dabei können Beginn, Dauer, Unterbrechungen, körperliche Reaktionen, Erholungsphase und gegebenenfalls reproduktive Ergebnisse dokumentiert werden.
+
+### 13. Zentrale Forschungsfrage
+
+Wie verändert sich die Wahrnehmung körperlicher Selbstbestimmung, wenn körperbezogene Entscheidungen über einen langen Zeitraum freiwillig und zunehmend an eine äußere künstlerische Instanz delegiert werden – und welche körperlichen, psychischen, sozialen und reproduktiven Veränderungen werden dabei beobachtbar?
+
+### 14. Verbindlichkeit
+
+Die vorstehenden Forschungsfelder sind Bestandteil des künstlerischen Gesamtkonzepts. Die Projektvollmacht soll die künstlerische Leitung ermächtigen, diese Untersuchungsfelder im maximal rechtlich zulässigen Umfang zu planen, zu organisieren, zu dokumentieren, zu veröffentlichen und weiterzuentwickeln.
+
+Die Delegation ersetzt jedoch keine aktuell erforderliche persönliche Einwilligung für eine konkrete sexuelle oder reproduktive Handlung und begründet keine Befugnis zu körperlichem Zwang. Gerade die Grenze zwischen freiwillig delegierter Fremdbestimmung und nicht delegierbarer persönlicher Entscheidung ist selbst Bestandteil der künstlerischen Forschung.
+
 ## § 11 Keine routinemäßige Einzelgenehmigung
 
 (1) Für organisatorische, künstlerische und vertragliche Entscheidungen innerhalb der übertragenen Befugnisse soll grundsätzlich keine erneute Einzelgenehmigung erforderlich sein.
