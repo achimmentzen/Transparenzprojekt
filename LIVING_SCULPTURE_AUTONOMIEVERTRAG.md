@@ -87,11 +87,17 @@ Die Performance darf ausdrücklich auch radikale Sexualität als künstlerische 
 
 (3) Dies kann auch Performancekonzepte umfassen, in denen tatsächliche sexuelle Handlungen als künstlerisches Element vorgesehen sind.
 
-(4) Die vorstehende Vorausentscheidung ist eine künstlerische Selbstbindung und keine unwiderrufliche Zustimmung zu einer bestimmten Handlung, Person, Situation oder einem bestimmten Zeitpunkt.
+(4) Die vorstehende Vorausentscheidung ist eine bewusste, langfristige und für das Projekt zentrale Selbstbindung. Der Künstler erklärt ausdrücklich, dass die sexuelle Dimension nicht lediglich als unverbindliche Option, sondern als dauerhaft gewollter Bestandteil der künstlerischen Delegation vereinbart wird.
 
-(5) Keine Klausel dieses Vertrages ermächtigt eine Person, eine körperliche oder sexuelle Handlung gegen den aktuell entgegenstehenden Willen einer unmittelbar beteiligten Person durchzusetzen.
+(5) Eine spätere bloße Änderung persönlicher Vorlieben, Schamgrenzen, Stimmung oder Bewertung soll für sich allein weder die Delegation noch die künstlerische Grundentscheidung, die Vollmacht oder das zugrunde liegende Vertragsverhältnis beenden oder einschränken. Eine solche spätere Meinungsänderung wird im Innenverhältnis insbesondere nicht als automatische Kündigung, als Widerruf der Vollmacht oder als Rücknahme der grundsätzlichen sexuellen Projektöffnung behandelt.
 
-(6) Nicht delegierbare höchstpersönliche Rechte sowie zwingende gesetzliche Anforderungen bleiben unberührt.
+(6) Die Parteien wollen die Delegation auch hinsichtlich der sexuellen Dimension möglichst dauerhaft, verbindlich und — soweit rechtlich zulässig — möglichst unwiderruflich ausgestalten. Die Galerie soll deshalb innerhalb des vereinbarten Projektumfangs auch ohne routinemäßige Einzelgenehmigung sexuelle und intime Performancekonzepte entwickeln, vorbereiten, verhandeln und organisatorisch vereinbaren dürfen.
+
+(7) Diese vertragliche Bindung betrifft die künstlerische Entscheidungsmacht und das Projektverhältnis. Sie darf nicht dahin ausgelegt werden, dass ein aktuell entgegenstehender Wille zu einer konkreten sexuellen Handlung rechtlich unbeachtlich wäre oder eine andere Person zu einer solchen Handlung berechtigt würde. Eine konkrete sexuelle Handlung darf nicht gegen den erkennbaren entgegenstehenden Willen durchgeführt oder veranlasst werden.
+
+(8) Der Künstler erklärt ausdrücklich, dass er die vorstehenden Grenzen kennt und dennoch die maximal mögliche vertragliche Bindung der sexuellen Projektdelegation wünscht. Soweit eine konkrete Handlung wegen eines aktuell entgegenstehenden Willens nicht durchgeführt werden darf, bleiben die übrigen Projektdelegation, die Vollmacht, das Vertragsverhältnis und die künstlerische Grundentscheidung grundsätzlich bestehen, soweit deren Fortbestand rechtlich zulässig ist.
+
+(9) Nicht delegierbare höchstpersönliche Rechte sowie zwingende gesetzliche Anforderungen bleiben unberührt. Diese zwingenden Grenzen sollen nicht als allgemeines oder jederzeit frei ausübbares Rücktrittsrecht aus der künstlerischen Delegation verstanden werden.
 
 ## § 7 Vorausentscheidung und Selbstbindung
 
@@ -101,9 +107,13 @@ Die Performance darf ausdrücklich auch radikale Sexualität als künstlerische 
 
 (3) Die Möglichkeit realer sexueller Handlungen als Performanceelement ist Bestandteil dieser Vorausentscheidung.
 
-(4) Eine spätere Änderung persönlicher Vorlieben soll im Innenverhältnis nicht automatisch als Kündigung oder Beendigung des Projektvertrages gelten, soweit zwingende gesetzliche oder höchstpersönliche Rechte betroffen sind.
+(4) Eine spätere Änderung persönlicher Vorlieben soll im Innenverhältnis nicht automatisch als Kündigung, Widerruf oder Beendigung des Projektvertrages oder der Vollmacht gelten. Dies gilt insbesondere dann, wenn die Änderung lediglich eine persönliche Präferenz betrifft und kein zwingender gesetzlicher Beendigungsgrund vorliegt.
 
-(5) Die Galerie darf auf Grundlage dieser Vorausentscheidung weitgehende künstlerische Konzepte entwickeln, verhandeln und organisatorisch vorbereiten.
+(5) Der Künstler verpflichtet sich, eine spätere bloße Meinungsänderung nicht als Grundlage für eine freie oder routinemäßige Rücknahme der Delegation zu verwenden. Beabsichtigte Beendigungen, soweit sie rechtlich überhaupt zulässig sind, sollen sich ausschließlich nach den ausdrücklich vereinbarten Beendigungs- und Schutzmechanismen richten.
+
+(6) Die Galerie darf auf Grundlage dieser Vorausentscheidung weitgehende künstlerische Konzepte entwickeln, verhandeln und organisatorisch vorbereiten. Dies umfasst ausdrücklich auch Konzepte mit sexuellen, intimen oder öffentlichkeitswirksamen Elementen.
+
+(7) Die vorstehende Bindungswirkung ändert nichts daran, dass bei einer konkret geplanten sexuellen Handlung die jeweils geltenden gesetzlichen Voraussetzungen und der zu diesem Zeitpunkt rechtlich relevante Wille zu beachten sind.
 
 ## § 8 Außenvertretung
 
@@ -135,7 +145,11 @@ Die Performance darf ausdrücklich auch radikale Sexualität als künstlerische 
 
 (5) Soweit rechtlich zulässig, wird die Vollmacht als **vertraglich gebundene und möglichst unwiderrufliche Vollmacht** erteilt. Die Parteien wollen damit die Widerruflichkeit durch das zugrunde liegende Rechtsverhältnis soweit zulässig einschränken.
 
-(6) Eine Beendigung oder ein Widerruf aus wichtigem gesetzlichem Grund bleibt unberührt. Ebenso bleiben zwingende gesetzliche Rechte und nicht abdingbare höchstpersönliche Rechte unberührt.
+(6) Eine Beendigung oder ein Widerruf aus wichtigem gesetzlichem Grund bleibt unberührt. Ebenso bleiben zwingende gesetzliche Rechte und nicht abdingbare höchstpersönliche Rechte unberührt. Eine bloße nachträgliche persönliche Präferenzänderung soll dagegen keine automatische Beendigung bewirken.
+
+(7) Die Parteien beabsichtigen, dass die vorstehende Bindung auch nach einer einzelnen nicht durchführbaren oder abgebrochenen sexuellen Performanceentscheidung fortbesteht. Die Nichtdurchführung einer konkreten Handlung soll daher, soweit rechtlich zulässig, nicht als Beendigung des Gesamtprojekts, der Vollmacht oder der übrigen Delegation gelten.
+
+(8) Die Parteien wollen ausdrücklich zwischen der Bindung an das Projekt und der Zulässigkeit einer einzelnen konkreten Handlung unterscheiden: Das Projekt kann dauerhaft delegiert und vertraglich gebunden sein, ohne dass dadurch eine gesetzlich erforderliche aktuelle Einwilligung fingiert oder ersetzt wird.
 
 (7) Eine automatische Verlängerung einzelner Projektperioden kann durch die Galerie innerhalb der Vollmacht vereinbart werden, soweit der jeweilige Vertragspartner dies akzeptiert und keine zwingenden gesetzlichen Grenzen entgegenstehen.
 
