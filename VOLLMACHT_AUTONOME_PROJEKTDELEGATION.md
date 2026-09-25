@@ -103,6 +103,27 @@ Die Vollmacht umfasst insbesondere:
 
 Die Vollmacht bezieht sich ausschließlich auf die Rechte und Angelegenheiten des Vollmachtgebers. Andere Personen können nur durch deren eigene wirksame Erklärung oder Vollmacht gebunden werden.
 
+
+
+## 10a. Verbindliche Langzeitforschung: Körper, Sexualität, Fremdbestimmung und Reproduktion
+
+Die Vollmacht umfasst innerhalb ihres rechtlich zulässigen Umfangs die autonome Planung, Organisation, Dokumentation und Weiterentwicklung eines verbindlichen Forschungsbereichs des Projekts. Dazu gehören einzeln:
+
+1. **Körperliche Grenzzustände:** Untersuchung von Belastung, Ermüdung, Bewegungsfreiheit, Körperhaltung, Dauer, Intensität, Intimität, Öffentlichkeit und subjektiver Wahrnehmung.
+2. **Fremdbestimmte Herbeiführung:** Delegierte Festlegung von Ablauf, Dauer, Intensität, Wiederholung, Positionierung und Öffentlichkeit innerhalb des vereinbarten Rahmens.
+3. **Aufrechterhaltung:** Beobachtung und Dokumentation erreichter körperlicher Zustände über definierte Zeiträume.
+4. **Wiederholung und Pausen:** Wiederkehrende Zyklen mit dokumentierten Pausen und Erholungsphasen zur Untersuchung möglicher Veränderungen der Grenzwahrnehmung.
+5. **Sexualität und Orgasmus:** Soweit aktuell gewollt und rechtlich zulässig, können sexuelle Erregung und Orgasmus als Untersuchungsparameter hinsichtlich Häufigkeit, Abstand, subjektiver Intensität und Erholungsphasen dokumentiert werden.
+6. **Langzeitbeobachtung:** Der Forschungszeitraum kann sich über Wochen oder Monate bis zu einem vorgesehenen Beobachtungszeitraum von sechs Monaten erstrecken.
+7. **Auditorium und Öffentlichkeit:** Zunehmende Einbeziehung des Publikums sowie Variation von Beobachtungsintensität, räumlicher Nähe und Dokumentationsgrad.
+8. **Positionierung und Choreografie:** Einsatz geeigneter Positionierungshilfen und choreografischer Vorgaben zur Untersuchung äußerer Steuerung; dies begründet keine Befugnis zu körperlichem Zwang.
+9. **Dokumentation:** Video, Fotografie, Audio und schriftliche Verlaufsdokumentation, soweit die hierfür erforderlichen Rechte und Einwilligungen vorliegen.
+10. **Reproduktion:** Reproduktion als eigenständiger Forschungsbereich zur Untersuchung des Zusammenhangs von Sexualität, Körperfunktion, Zeit, wiederholten Zyklen, Fremdbestimmung und möglicher natürlicher Reproduktion.
+11. **Körperflüssigkeiten:** Entstehende Körperflüssigkeiten können als biologisches Ergebnis und Untersuchungsmaterial dokumentiert werden. Eine konkrete reproduktive Verwendung setzt die aktuelle, eigenständige Entscheidung aller unmittelbar betroffenen Personen voraus.
+12. **Zyklen:** Einzelne Untersuchungszyklen können als eigenständige Einheiten mit Beginn, Dauer, Unterbrechungen, Reaktionen, Erholungsphase und gegebenenfalls reproduktiven Ergebnissen erfasst werden.
+
+Die Vollmacht umfasst damit ausdrücklich auch die autonome organisatorische Entscheidung darüber, welche dieser Untersuchungsfelder innerhalb des Projektrahmens konkret verfolgt, dokumentiert, veröffentlicht oder weiterentwickelt werden. Nicht delegierbare höchstpersönliche Entscheidungen und zwingende gesetzliche Anforderungen bleiben unberührt.
+
 ## 11. Dokumentation
 
 Wesentliche Entscheidungen, die aufgrund dieser Vollmacht getroffen werden, sollen im **DECISION_LOG** des Projekts dokumentiert werden.
