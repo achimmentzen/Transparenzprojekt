@@ -56,6 +56,7 @@
   </style>
 </head>
 <body>
+<div style="padding:.7rem 1rem;background:#151515;border-bottom:1px solid #303030;font-size:.85rem"><a href="./index.html">Startseite</a> · <a href="./SEXUELLE_OFFENHEIT.html">Sexuelle Offenheit</a> · <a href="./LIVING_SCULPTURE_AUTONOMIEVERTRAG.html">Autonomievertrag</a> · <a href="./VOLLMACHT_AUTONOME_PROJEKTDELEGATION.html">Vollmacht</a> · <a href="./PROJECT_RULES.html">Regeln</a> · <a href="./PRESS_RELEASE.html">Presse</a></div>
   <nav>
     <a href="./index.html">Living Sculpture / Transparenzprojekt</a>
     <span><a href="#experiment">Experiment</a> · <a href="#ablauf">7 Tage</a> · <a href="#grenzen">Grenzen</a></span>
@@ -122,10 +123,10 @@
       <h2>Dokumentation</h2>
       <p>Das Projekt dokumentiert nicht nur die Performance, sondern auch die Entscheidungen, die im Rahmen der Delegation tatsächlich getroffen werden.</p>
       <div class="grid">
-        <div class="card"><a href="./PROJECT_RULES.md"><strong>PROJECT_RULES.md</strong></a><p class="muted">Umfang der freiwilligen Delegation.</p></div>
-        <div class="card"><a href="./AI_INSTRUCTIONS.md"><strong>AI_INSTRUCTIONS.md</strong></a><p class="muted">Regeln für die Entscheidungsfunktion der KI.</p></div>
-        <div class="card"><a href="./CONSENT_AND_BOUNDARIES.md"><strong>CONSENT_AND_BOUNDARIES.md</strong></a><p class="muted">Einwilligung und unverzichtbare Grenzen.</p></div>
-        <div class="card"><a href="./DECISION_LOG.md"><strong>DECISION_LOG.md</strong></a><p class="muted">Öffentliches Entscheidungsprotokoll.</p></div>
+        <div class="card"><a href="./PROJECT_RULES.html"><strong>PROJECT_RULES.md</strong></a><p class="muted">Umfang der freiwilligen Delegation.</p></div>
+        <div class="card"><a href="./AI_INSTRUCTIONS.html"><strong>AI_INSTRUCTIONS.md</strong></a><p class="muted">Regeln für die Entscheidungsfunktion der KI.</p></div>
+        <div class="card"><a href="./CONSENT_AND_BOUNDARIES.html"><strong>CONSENT_AND_BOUNDARIES.md</strong></a><p class="muted">Einwilligung und unverzichtbare Grenzen.</p></div>
+        <div class="card"><a href="./DECISION_LOG.html"><strong>DECISION_LOG.md</strong></a><p class="muted">Öffentliches Entscheidungsprotokoll.</p></div>
       </div>
     </section>
 
