@@ -9,17 +9,31 @@ layout: default
 
 **Entwurf zur individuellen rechtlichen Prüfung**
 
+> **Vertragsverbund:** Diese Vollmacht ist die gesonderte Vollmachtsurkunde zum **„LIVING SCULPTURE – Autonomie-, Vollmachts- und Künstlervertrag“**. Beide Dokumente gehören zusammen. Der Autonomievertrag regelt das Grundverhältnis; diese Urkunde dokumentiert die daraus folgende Vertretungsmacht nach außen.
+
 ## 1. Vollmachtgeber
 
-Ich, Achim Mentzen, erteile hiermit im Zusammenhang mit dem Kunstprojekt „Living Sculpture / Transparenzprojekt“ eine Vollmacht zur autonomen projektbezogenen Vertretung.
+Ich, **Achim Mentzen**, erteile im Zusammenhang mit dem Kunstprojekt „Living Sculpture / Transparenzprojekt“ die nachfolgende projektbezogene Vollmacht.
 
-## 2. Zweck
+## 2. Bevollmächtigte Stelle
 
-Zweck der Vollmacht ist die tatsächliche Übertragung von Entscheidungs-, Verhandlungs- und – soweit rechtlich zulässig – Vertretungsmacht auf die von mir für das Projekt eingesetzte KI bzw. auf eine von mir ausdrücklich benannte natürliche oder juristische Person, die diese KI rechtlich und technisch als Vertreter einsetzt.
+**Galerie BUW Institution**
 
-Die Delegation soll nicht lediglich beratend wirken. Innerhalb des Vollmachtsumfangs soll die beauftragte Vertretung eigenständig entscheiden und handeln.
+Die Galerie darf sich zur Vorbereitung und Durchführung einzelner Entscheidungen geeigneter Personen bedienen.
 
-## 3. Umfang
+Soweit Entscheidungen technisch durch eine KI vorbereitet oder innerhalb des Projektrahmens autonom getroffen werden, handelt die KI nicht als selbständig rechtsfähige Person. Rechtsverbindliche Erklärungen gegenüber Dritten sind durch die hierfür rechtlich geeignete und bevollmächtigte natürliche oder juristische Person abzugeben.
+
+## 3. Zweck und Grundverhältnis
+
+(1) Zweck der Vollmacht ist die möglichst weitgehende autonome Übertragung meiner projektbezogenen Entscheidungs-, Verhandlungs- und Vertretungsmacht.
+
+(2) Die Vollmacht ist nicht lediglich beratend gemeint. Innerhalb ihres Umfangs soll die Galerie eigenständig entscheiden, verhandeln und handeln können.
+
+(3) Das zugrunde liegende Rechtsverhältnis ist der **„LIVING SCULPTURE – Autonomie-, Vollmachts- und Künstlervertrag“**.
+
+(4) Dieser Vertrag und die vorliegende Vollmacht sind zusammen auszulegen. Bei einer Auslegung soll die projektbezogene Delegation möglichst weit erhalten bleiben, soweit zwingendes Recht nicht entgegensteht.
+
+## 4. Umfang
 
 Die Vollmacht umfasst insbesondere:
 
@@ -28,65 +42,102 @@ Die Vollmacht umfasst insbesondere:
 - Festlegung von Terminen, Orten, Honoraren und organisatorischen Bedingungen;
 - Vereinbarungen über die künstlerische Darstellung meiner Person;
 - Vereinbarungen über öffentliche Körperdarstellung und Nacktheit;
-- Vereinbarungen über intime, erotische und sexuelle Themen, soweit sie als zulässiger Bestandteil des Kunstprojekts vereinbart werden können;
+- Vereinbarungen über intime, erotische und sexuelle Themen, soweit dies rechtlich zulässig ist;
 - Dokumentations-, Veröffentlichungs- und Medienvereinbarungen;
-- sonstige Rechtsgeschäfte, die unmittelbar der Durchführung des Projekts dienen.
+- Kooperationen, Pressearbeit und projektbezogene Kommunikation;
+- sonstige Rechtsgeschäfte, die unmittelbar der Durchführung und Weiterentwicklung von „Living Sculpture“ dienen.
 
-## 4. Autonome Entscheidung
+## 5. Autonome Entscheidung
 
-Soweit eine Entscheidung vom Vollmachtsumfang erfasst und rechtlich zulässig ist, soll sie autonom innerhalb der delegierten Entscheidungsbefugnis getroffen werden.
+(1) Soweit eine Entscheidung vom Vollmachtsumfang erfasst und rechtlich zulässig ist, darf sie von der Galerie ohne erneute Einzelgenehmigung des Künstlers getroffen werden.
 
-Ich wünsche ausdrücklich keine bloße Beratung, sondern die praktische Erprobung einer möglichst weitgehenden Delegation meiner eigenen Entscheidungsbefugnis.
+(2) Dies gilt insbesondere für künstlerische, organisatorische, kommunikative und vertragliche Entscheidungen.
 
-## 5. Persönliche Rolle als Kunstobjekt
+(3) Die Delegation soll praktisch wirksam sein und nicht durch eine Pflicht zu routinemäßigen Einzelbestätigungen entwertet werden.
 
-Meine Person darf innerhalb des vereinbarten und rechtlich zulässigen Rahmens ausdrücklich Gegenstand der vertraglichen Vereinbarungen sein.
+## 6. Vertretungsmacht nach außen
 
-Die Vollmacht erlaubt jedoch nicht die Zustimmung zu Handlungen, für die nach Gesetz oder aufgrund der Rechte anderer Personen eine gesonderte aktuelle Einwilligung erforderlich ist.
+(1) Die Galerie ist innerhalb des vorstehenden Umfangs berechtigt, mich gegenüber Dritten zu vertreten.
 
-## 6. Rechtliche Grenzen
+(2) Eine innerhalb der Vertretungsmacht abgegebene Erklärung kann nach den gesetzlichen Vorschriften unmittelbar für und gegen mich wirken.
 
-Diese Vollmacht ersetzt keine gesetzlich vorgeschriebene Form und erweitert keine gesetzlichen Befugnisse.
+(3) Die Galerie darf die Vollmacht durch diese Urkunde oder durch eine gesonderte Ausfertigung gegenüber Dritten nachweisen.
 
-Sie berechtigt insbesondere nicht dazu:
+(4) Soweit ein konkretes Rechtsgeschäft besondere Form- oder Vertretungsanforderungen hat, sind diese einzuhalten.
 
-- andere Personen ohne deren Einwilligung zu verpflichten;
-- rechtswidrige Handlungen zu vereinbaren;
-- zwingende gesetzliche Schutzvorschriften auszuschließen;
-- gesetzlich erforderliche persönliche Erklärungen durch eine andere Erklärung zu ersetzen.
+## 7. Dauer und Fortbestand
 
-## 7. Außenverhältnis
+(1) Die Vollmacht wird auf unbestimmte Zeit erteilt.
 
-Gegenüber Vertragspartnern ist die Vertretungsmacht nur in dem Umfang gegeben, in dem sie tatsächlich wirksam erteilt und nach den jeweils geltenden rechtlichen Anforderungen nachweisbar ist.
+(2) Sie soll während der gesamten Dauer des zugrunde liegenden Autonomievertrages fortbestehen.
 
-Soll eine natürliche Person als Vertreter auftreten, ist diese Person in einer gesonderten Vollmachtsurkunde eindeutig zu benennen.
+(3) Eine Änderung einzelner Ansprechpartner, Veranstaltungsorte, Medien, Technologien oder Projektformate lässt die Vollmacht unberührt.
 
-Eine KI ist nicht allein aufgrund dieser Projektbeschreibung eine rechtsfähige oder automatisch vertretungsberechtigte Person.
+(4) Die Galerie darf innerhalb dieser Vollmacht projektbezogene Vereinbarungen mit eigener Laufzeit abschließen, einschließlich Vereinbarungen über Verlängerungen, Fortsetzungen oder Folgeformate, soweit diese vom Projektumfang gedeckt sind.
 
-## 8. Widerruf und Stoppsignal
+## 8. Vertraglich gebundene und möglichst unwiderrufliche Vollmacht
 
-Die Vollmacht ist nach Maßgabe des anwendbaren Rechts widerruflich.
+(1) Die Parteien vereinbaren ausdrücklich, dass diese Vollmacht nicht nach freiem Belieben widerrufen werden soll.
 
-Ein ausdrücklich erklärter Widerruf beendet die weitere Delegation für die Zukunft. Bereits wirksam geschlossene Verträge bleiben davon grundsätzlich unberührt.
+(2) Der Künstler verpflichtet sich im zugrunde liegenden Autonomievertrag, von einem Widerruf nicht allein aufgrund einer späteren Meinungsänderung Gebrauch zu machen, soweit keine zwingenden gesetzlichen oder höchstpersönlichen Gründe entgegenstehen.
 
-## 9. Dokumentation
+(3) Die Vollmacht wird daher **soweit rechtlich zulässig als vertraglich gebundene und möglichst unwiderrufliche Vollmacht** erteilt.
 
-Von der Vollmacht Gebrauch gemachte wesentliche Entscheidungen sollen im DECISION_LOG des Projekts dokumentiert werden.
+(4) Die Parteien wollen damit die gesetzliche Grundregel der Widerruflichkeit im Rahmen des zugrunde liegenden Rechtsverhältnisses soweit zulässig abbedingen.
 
-## 10. Erklärung des Vollmachtgebers
+(5) Ein Widerruf oder eine Beendigung aus wichtigem gesetzlichem Grund bleibt möglich, soweit zwingendes Recht dies verlangt oder zulässt.
 
-Mir ist bewusst, dass eine weitreichende Vollmacht erhebliche rechtliche und persönliche Folgen haben kann.
+(6) Die vorstehende Bindung betrifft die projektbezogene Vertretungs- und Entscheidungsbefugnis. Sie ist keine Übertragung nicht delegierbarer höchstpersönlicher Rechte.
 
-Ich erteile diese Vollmacht bewusst als Bestandteil des künstlerischen Experiments der freiwilligen Autonomieabgabe.
+## 9. Persönliche Rolle und körperliche Darstellung
 
-Ort: ______________________________
+(1) Meine Person darf innerhalb des vereinbarten und rechtlich zulässigen Rahmens ausdrücklich Gegenstand der vertraglichen Vereinbarungen sein.
 
-Datum: ____________________________
+(2) Die Vollmacht umfasst insbesondere Vereinbarungen über künstlerische Darstellung, Nacktheit, intime Themen und öffentliche Sexualisierung der künstlerischen Person.
 
-Unterschrift Achim Mentzen:
+(3) Die Vollmacht ersetzt jedoch keine aktuell erforderliche persönliche Einwilligung zu einer konkreten körperlichen oder sexuellen Handlung.
+
+(4) Keine Bestimmung dieser Vollmacht berechtigt zu einer rechtswidrigen Handlung oder dazu, den aktuell entgegenstehenden Willen einer unmittelbar beteiligten Person zu übergehen.
+
+## 10. Keine Vertretung anderer Personen
+
+Die Vollmacht bezieht sich ausschließlich auf die Rechte und Angelegenheiten des Vollmachtgebers. Andere Personen können nur durch deren eigene wirksame Erklärung oder Vollmacht gebunden werden.
+
+## 11. Dokumentation
+
+Wesentliche Entscheidungen, die aufgrund dieser Vollmacht getroffen werden, sollen im **DECISION_LOG** des Projekts dokumentiert werden.
+
+## 12. Verhältnis zu anderen Projektdokumenten
+
+Diese Vollmacht ist insbesondere gemeinsam mit folgenden Dokumenten zu lesen:
+
+- **LIVING_SCULPTURE_AUTONOMIEVERTRAG.md** – Grundverhältnis;
+- **PROJECT_RULES.md** – Projektregeln;
+- **CONSENT_AND_BOUNDARIES.md** – persönliche und rechtliche Grenzen;
+- **DECISION_LOG.md** – Dokumentation wesentlicher Entscheidungen.
+
+Bei einem Widerspruch gehen zwingendes Recht und nicht abdingbare persönliche Rechte vor.
+
+## 13. Bewusste Erklärung des Vollmachtgebers
+
+Mir ist bewusst, dass diese Vollmacht eine weitreichende rechtliche und persönliche Bindung bewirken soll.
+
+Ich erteile sie bewusst als Bestandteil des künstlerischen Experiments der freiwilligen Delegation meiner künstlerischen Entscheidungs- und Vertretungsmacht.
+
+Ich will ausdrücklich, dass die Galerie innerhalb des vereinbarten Projektumfangs eigenständig handeln kann und nicht für jede einzelne Entscheidung meine erneute Zustimmung einholen muss.
+
+Ich will außerdem, dass die Vollmacht langfristig fortbesteht und ihr Widerruf im Innenverhältnis soweit rechtlich zulässig ausgeschlossen wird.
+
+Diese Erklärung betrifft die projektbezogene Entscheidungs- und Vertretungsmacht. Sie ersetzt keine aktuell erforderliche persönliche Einwilligung und überträgt keine nicht delegierbaren höchstpersönlichen Rechte.
+
+**Ort:** ______________________________
+
+**Datum:** ____________________________
+
+**Unterschrift Achim Mentzen:**
 
 __________________________________
 
 ---
 
-**Hinweis:** Dieser Entwurf ist keine notarielle oder anwaltliche Bestätigung seiner Wirksamkeit. Vor tatsächlicher Verwendung gegenüber Vertragspartnern sollte insbesondere geklärt werden, wer rechtlich als Vertreter auftreten soll und welche Form für die konkreten Rechtsgeschäfte erforderlich ist.
+**Rechtlicher Hinweis:** Dieser Text ist ein Projektentwurf und keine anwaltliche oder notarielle Prüfung. Insbesondere die gewünschte Bindung der Vollmacht, ihre Außenwirkung, konkrete Formanforderungen und die Folgen eines späteren Widerrufs sollten vor tatsächlicher Verwendung gegenüber Dritten von einer in Deutschland zugelassenen Rechtsanwältin/einem Rechtsanwalt oder – soweit erforderlich – einer Notarin/einem Notar geprüft werden.
