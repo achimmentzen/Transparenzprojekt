@@ -1,0 +1,40 @@
+name: Booking configuration validation
+
+on:
+  push:
+    paths:
+      - "booking/**"
+      - ".github/workflows/booking-validation.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate booking schema
+        run: |
+          python - <<'PY'
+          import json
+          with open("booking/SCHEMA.json", encoding="utf-8") as f:
+              schema=json.load(f)
+          required=set(schema["required"])
+          expected={
+              "booking_id","created_at","name","email","age_confirmed",
+              "offer","requested_at","consent_version","status"
+          }
+          missing=expected-required
+          if missing:
+              raise SystemExit(f"Schema missing required fields: {sorted(missing)}")
+          allowed={"performance","body_contact","individual_framework"}
+          offers=set(schema["properties"]["offer"].split("|"))
+          if offers != allowed:
+              raise SystemExit("Offer enum mismatch")
+          print("Booking schema OK")
+          PY
+      - name: Check public repository for obvious secrets
+        run: |
+          ! grep -RInE 'ghp_[A-Za-z0-9_]{20,}|github_pat_[A-Za-z0-9_]{20,}|AIza[0-9A-Za-z_-]{20,}|BEGIN (RSA|OPENSSH|EC|PRIVATE) KEY' booking .github || true
