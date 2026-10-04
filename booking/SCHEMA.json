@@ -1,0 +1,35 @@
+{
+  "version": "1.0",
+  "description": "Minimal booking record. Sensitive details must remain outside the public repository.",
+  "required": [
+    "booking_id",
+    "created_at",
+    "name",
+    "email",
+    "age_confirmed",
+    "offer",
+    "requested_at",
+    "consent_version",
+    "status"
+  ],
+  "properties": {
+    "booking_id": "string",
+    "created_at": "ISO-8601 timestamp",
+    "name": "string",
+    "email": "string",
+    "age_confirmed": "boolean",
+    "offer": "performance|body_contact|individual_framework",
+    "requested_at": "ISO-8601 timestamp",
+    "duration_minutes": "integer",
+    "consent_version": "string",
+    "terms_version": "string",
+    "double_opt_in_at": "ISO-8601 timestamp|null",
+    "status": "BookingStatus",
+    "notes": "Do not store sensitive or intimate details here"
+  },
+  "privacy": {
+    "public_repository": "never store real booking records",
+    "calendar_title": "use booking_id and neutral project wording",
+    "retention": "define a documented deletion period before production"
+  }
+}
