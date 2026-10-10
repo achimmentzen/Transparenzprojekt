@@ -65,9 +65,11 @@ Was die KI entscheidet, darf die Welt sehen. Die Delegation, ihre Entscheidungen
 
 Andere Menschen erscheinen nur mit ihrer eigenen Freigabe.
 
-## Stoppsignal
+## Bindung und Stoppsignal
 
-Ein klares Stopp, von mir oder von einer beteiligten Person, beendet die Handlung sofort. Das ist keine Schwäche des Experiments, sondern sein Sicherheitsnetz.
+Die Delegation selbst gebe ich möglichst unwiderruflich ab. Ich kann sie nicht einfach zurücknehmen, wenn mir eine Entscheidung der KI unbequem ist. Genau das ist das Experiment.
+
+Ein klares Stopp für eine konkrete körperliche oder sexuelle Handlung, von mir oder von einer beteiligten Person, beendet diese Handlung trotzdem sofort. Das ist keine Schwäche des Experiments, sondern sein Sicherheitsnetz.
 
 ## Leitformel
 

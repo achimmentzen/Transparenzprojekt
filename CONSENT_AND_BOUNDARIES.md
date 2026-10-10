@@ -21,7 +21,9 @@ Keine Person wird durch dieses Projekt zu einer Handlung verpflichtet. Jede betr
 
 ## Stoppsignal
 
-Ein eindeutiges Stoppsignal oder ein ausdrücklicher Widerruf hat Vorrang vor früheren Delegationen.
+Die Delegation an sich ist, soweit rechtlich zulässig, möglichst unwiderruflich.
+
+Ein eindeutiges Stoppsignal für eine konkrete körperliche oder sexuelle Handlung hat jedoch immer Vorrang vor früheren Delegationen. Das gilt für Achim wie für jede beteiligte Person.
 
 ## Dokumentation
 
@@ -29,4 +31,4 @@ Die Delegation und ihre tatsächliche Anwendung dürfen öffentlich beschrieben 
 
 ## Zweck
 
-Diese Grenzen sollen die maximale freiwillige Delegation ermöglichen, ohne aus dem Experiment eine unwiderrufliche Blankovollmacht über Körper, Rechte oder andere Menschen zu machen.
+Diese Grenzen sollen die maximale freiwillige Delegation ermöglichen, ohne die Rechte anderer Menschen zu berühren oder das Stoppsignal bei konkreten körperlichen Handlungen aufzuheben.

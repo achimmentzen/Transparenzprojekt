@@ -49,7 +49,9 @@ Die Delegation ersetzt keine aktuelle Einwilligung, soweit diese für eine konkr
 
 Sie kann insbesondere weder die Rechte anderer Personen noch deren eigene Einwilligung ersetzen. Niemand wird durch dieses Projekt zu einer Handlung verpflichtet.
 
-Ein eindeutiges Stoppsignal oder ein Widerruf beendet die betreffende Delegation bzw. Handlung.
+Die Delegation wird, soweit rechtlich zulässig, möglichst unwiderruflich erteilt. Ein Widerruf aus bloßem Unbehagen über eine einzelne Entscheidung ist ausdrücklich nicht vorgesehen.
+
+Ein eindeutiges Stoppsignal für eine konkrete körperliche oder sexuelle Handlung beendet diese Handlung jedoch immer sofort.
 
 ## Öffentlichkeitsprinzip
 
