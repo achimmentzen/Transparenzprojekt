@@ -53,7 +53,9 @@ Sobald ein anderer Mensch beteiligt ist, bei Berührung, körperlicher Nähe ode
 - Diese Zustimmung wird nie unterstellt, nie vorweggenommen und nie durch die KI ersetzt.
 - Sie kann jederzeit zurückgezogen werden.
 - Beteiligt sind nur Erwachsene.
-- Sexuelle Handlungen bleiben außerhalb des öffentlich zugänglichen Publikumsbereichs.
+- Sexuelle Offenheit, auch sexuelle Handlungen, kann vor Publikum Teil der Performance sein, wenn alle zustimmen: die beteiligten Personen, das anwesende Publikum und die gastgebende Institution.
+- Das Publikum weiß vorher, worauf es sich einlässt, ist volljährig, hat kontrollierten Zugang und kann jederzeit gehen.
+- Der Raum ist von außen nicht einsehbar.
 
 Die radikalste Variante ist nie die, die einen anderen Menschen übergeht.
 
