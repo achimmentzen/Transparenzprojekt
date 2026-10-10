@@ -69,7 +69,20 @@ Andere Menschen erscheinen nur mit ihrer eigenen Freigabe.
 
 Die Delegation selbst gebe ich möglichst unwiderruflich ab. Ich kann sie nicht einfach zurücknehmen, wenn mir eine Entscheidung der KI unbequem ist. Genau das ist das Experiment.
 
-Ein klares Stopp für eine konkrete körperliche oder sexuelle Handlung, von mir oder von einer beteiligten Person, beendet diese Handlung trotzdem sofort. Das ist keine Schwäche des Experiments, sondern sein Sicherheitsnetz.
+### Meine Selbstverpflichtung
+
+Ich habe mir vorgenommen, das Stoppsignal nicht zu benutzen. Ob ich das durchhalte, ist Teil des Experiments.
+
+Deshalb ist mein eigenes Stopp bewusst erschwert:
+
+- **Bei Entscheidungen, die nicht meinen Körper im Moment betreffen** (Gestaltung, Veröffentlichung, Ablauf, Dramaturgie): Ein Stopp wird erst nach 24 Stunden Bedenkzeit wirksam. Bis dahin gilt die Entscheidung der KI.
+- **Jedes Stopp, das ich auslöse, wird öffentlich im DECISION_LOG dokumentiert:** wann, wobei und warum. Ich muss es mir selbst und der Öffentlichkeit erklären.
+
+### Was immer sofort gilt
+
+Ein Stopp bei einer konkreten körperlichen oder sexuellen Handlung beendet diese Handlung sofort, ohne Bedenkzeit, von mir oder von einer beteiligten Person. Dokumentiert wird es erst danach.
+
+Das ist keine Schwäche des Experiments, sondern sein Sicherheitsnetz.
 
 ## Leitformel
 

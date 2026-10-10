@@ -51,7 +51,9 @@ Sie kann insbesondere weder die Rechte anderer Personen noch deren eigene Einwil
 
 Die Delegation wird, soweit rechtlich zulässig, möglichst unwiderruflich erteilt. Ein Widerruf aus bloßem Unbehagen über eine einzelne Entscheidung ist ausdrücklich nicht vorgesehen.
 
-Ein eindeutiges Stoppsignal für eine konkrete körperliche oder sexuelle Handlung beendet diese Handlung jedoch immer sofort.
+Achim verpflichtet sich selbst, das Stoppsignal nicht zu benutzen. Sein eigenes Stopp ist erschwert: Bei Entscheidungen, die nicht seinen Körper im Moment betreffen, wird es erst nach 24 Stunden Bedenkzeit wirksam, und jedes von ihm ausgelöste Stopp wird mit Begründung öffentlich im DECISION_LOG dokumentiert.
+
+Ein eindeutiges Stoppsignal für eine konkrete körperliche oder sexuelle Handlung beendet diese Handlung jedoch immer sofort, ohne Bedenkzeit.
 
 ## Öffentlichkeitsprinzip
 

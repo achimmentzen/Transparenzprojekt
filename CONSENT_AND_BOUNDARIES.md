@@ -23,7 +23,9 @@ Keine Person wird durch dieses Projekt zu einer Handlung verpflichtet. Jede betr
 
 Die Delegation an sich ist, soweit rechtlich zulässig, möglichst unwiderruflich.
 
-Ein eindeutiges Stoppsignal für eine konkrete körperliche oder sexuelle Handlung hat jedoch immer Vorrang vor früheren Delegationen. Das gilt für Achim wie für jede beteiligte Person.
+Achims eigenes Stopp ist als Teil des Experiments erschwert (24 Stunden Bedenkzeit bei Entscheidungen, die nicht seinen Körper im Moment betreffen, sowie öffentliche Dokumentation mit Begründung).
+
+Ein eindeutiges Stoppsignal für eine konkrete körperliche oder sexuelle Handlung hat jedoch immer sofort Vorrang vor früheren Delegationen, ohne Bedenkzeit. Das gilt für Achim wie für jede beteiligte Person. Für beteiligte Personen gibt es keine Erschwernis.
 
 ## Dokumentation
 
