@@ -59,6 +59,18 @@ Sobald ein anderer Mensch beteiligt ist, bei Berührung, körperlicher Nähe ode
 
 Die radikalste Variante ist nie die, die einen anderen Menschen übergeht.
 
+## Fixierung
+
+Fixierung (Positionierhilfe, die mich in einer Haltung hält) kann Gestaltungsmittel der Performance sein, auch in Verbindung mit sexuellen Handlungen. Dann gilt zusätzlich:
+
+- **Meine Zustimmung wird direkt vorher eingeholt.** Ob ich mich fixieren lasse, entscheide ich selbst in dem Moment, nicht die KI und nicht eine frühere Delegation.
+- **Die andere Person** ist erwachsen, stimmt selbst aktuell zu und ist vorab bekannt, nicht spontan aus dem Publikum.
+- **Eine unabhängige Sicherheitsperson**, nicht die beteiligte Person, ist die ganze Zeit dabei und löst mich bei Stopp sofort.
+- **Ein Handgriff genügt**, um die Fixierung zu öffnen. Ein Werkzeug dafür liegt griffbereit.
+- **Mein Mund bleibt frei.** Zusätzlich gibt es ein vereinbartes Zeichen, falls Sprechen nicht geht.
+- **Stopp heißt sofort:** Die sexuelle Handlung endet, die Fixierung wird gelöst. Ohne Bedenkzeit und ohne Erschwernis.
+- **Dauer begrenzt**, Kreislauf und Durchblutung werden regelmäßig geprüft. Kein Alkohol, keine Drogen.
+
 ## Öffentlichkeit
 
 Was die KI entscheidet, darf die Welt sehen. Die Delegation, ihre Entscheidungen und ihre Folgen werden offen dokumentiert, im DECISION_LOG und darüber hinaus.

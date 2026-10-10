@@ -19,6 +19,10 @@ Eine vorherige Delegation ersetzt keine aktuelle Einwilligung, wenn diese für e
 
 Keine Person wird durch dieses Projekt zu einer Handlung verpflichtet. Jede betroffene Person entscheidet selbst über ihre Teilnahme und ihre Zustimmung.
 
+## Fixierung
+
+Fixierung, auch verbunden mit sexuellen Handlungen, setzt Achims eigene Zustimmung unmittelbar vorher voraus, dazu die Zustimmung der beteiligten erwachsenen Person, eine unabhängige Sicherheitsperson, eine sofort lösbare Fixierung, freien Mund und ein vereinbartes Zeichen. Ein Stopp beendet Handlung und Fixierung sofort.
+
 ## Stoppsignal
 
 Die Delegation an sich ist, soweit rechtlich zulässig, möglichst unwiderruflich.
