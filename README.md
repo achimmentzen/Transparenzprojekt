@@ -1,3 +1,5 @@
+> **Künstlerisches Forschungsprojekt über Körper, Scham und Autonomie · Nur für Erwachsene · Keine expliziten Inhalte**
+
 # Achim Mentzen – Living Sculpture / Transparenzprojekt
 
 **Living Sculpture / Transparenzprojekt** ist ein öffentlich dokumentiertes Kunst- und Performanceprojekt von **Achim Mentzen**.

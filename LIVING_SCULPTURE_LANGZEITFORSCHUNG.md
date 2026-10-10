@@ -4,6 +4,8 @@ title: "Living Sculpture – Langzeitforschung"
 description: "Langzeitforschung im Rahmen von Living Sculpture zu Körper, Sexualität, Fremdbestimmung, Öffentlichkeit, Dokumentation und Reproduktion."
 ---
 
+> **Künstlerisches Forschungsprojekt über Körper, Scham und Autonomie · Nur für Erwachsene · Keine expliziten Inhalte**
+
 # Living Sculpture – Langzeitforschung
 
 ## Forschungsrahmen
