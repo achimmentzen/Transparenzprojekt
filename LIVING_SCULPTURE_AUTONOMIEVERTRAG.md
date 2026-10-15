@@ -81,6 +81,28 @@ Die Performance darf ausdrücklich auch radikale Sexualität als künstlerische 
 
 (5) Die öffentliche Sexualisierung der künstlerischen Person kann Bestandteil des Projekts sein. Sie begründet jedoch keinen Anspruch Dritter auf körperlichen Kontakt oder sexuelle Handlungen.
 
+## § 5a Rahmenbedingungen der Durchführung
+
+(1) Modell ist ausschließlich und eindeutig Achim Mentzen. Er wird in allen Ankündigungen, Credits und Veröffentlichungen namentlich genannt.
+
+(2) Der Künstler ist während der gesamten Performance zu 100 % nackt, durchgehend und an jedem Ort der Performance, ohne Ausnahme.
+
+(3) Kleidung und sämtliche persönlichen Gegenstände werden zu Beginn vollständig an die Galerie bzw. den Auftraggeber abgegeben und von dieser bis zum Ende der Performance verwahrt.
+
+(4) Hilfsmittel zum Einnehmen und Halten von Posen (Positionierhilfen) sind erlaubt.
+
+(5) Der Künstler bricht eine begonnene Performance nicht ab. Davon unberührt bleibt § 6 Abs. 7: Eine konkrete sexuelle Handlung oder ein konkreter Körperkontakt findet nicht gegen seinen aktuell erkennbaren Willen statt; ein Nein zu einer solchen Handlung beendet nicht die Performance.
+
+(6) Die Galerie bzw. der Auftraggeber kann die Laufzeit einseitig um bis zu 6 Stunden verlängern.
+
+(7) Die künstlerische Regie liegt bei der Galerie bzw. dem Auftraggeber.
+
+(8) Die Galerie bzw. der Auftraggeber erhält sämtliche Film- und Fotorechte. Eine Veröffentlichung unter einer Creative-Commons-Lizenz ist ausdrücklich erlaubt.
+
+(9) Die Verbreitung erfolgt nur im Rahmen der geltenden Gesetze, insbesondere des Jugendschutzes und der Persönlichkeitsrechte des Publikums und weiterer Beteiligter.
+
+(10) Die Performance ist für die Galerie bzw. den Auftraggeber kostenfrei.
+
 ## § 6 Sexualität, Intimität und persönliche Einwilligung
 
 (1) Die radikale Sichtbarkeit von Sexualität ist ein wesentlicher Bestandteil des künstlerischen Konzepts.
@@ -100,6 +122,20 @@ Die Performance darf ausdrücklich auch radikale Sexualität als künstlerische 
 (8) Der Künstler erklärt ausdrücklich, dass er die vorstehenden Grenzen kennt und dennoch die maximal mögliche vertragliche Bindung der sexuellen Projektdelegation wünscht. Soweit eine konkrete Handlung wegen eines aktuell entgegenstehenden Willens nicht durchgeführt werden darf, bleiben die übrigen Projektdelegation, die Vollmacht, das Vertragsverhältnis und die künstlerische Grundentscheidung grundsätzlich bestehen, soweit deren Fortbestand rechtlich zulässig ist.
 
 (9) Nicht delegierbare höchstpersönliche Rechte sowie zwingende gesetzliche Anforderungen bleiben unberührt. Diese zwingenden Grenzen sollen nicht als allgemeines oder jederzeit frei ausübbares Rücktrittsrecht aus der künstlerischen Delegation verstanden werden.
+
+## § 6a Sexuelle Offenheit und Orgasmusmodul
+
+(1) Sexuelle Offenheit ist ausdrücklicher Bestandteil von „Living Sculpture“ im Rahmen von § 6.
+
+(2) Das Orgasmusmodul („Fremdbestimmter Orgasmus“, 80 Minuten) ist ein eigenständiges Modul innerhalb der Ausstellung. Es untersucht das Spannungsfeld zwischen äußerer Regie, Körperwahrnehmung, Intimität, Sichtbarkeit und Selbstbestimmung. Die Regie liegt bei der Galerie bzw. dem Auftraggeber.
+
+(3) Das Modul findet ausschließlich vor Erwachsenen statt, in einem vom öffentlichen Verkehrsraum nicht einsehbaren Raum mit kontrolliertem Zugang. Ablauf, Rolle einer gegebenenfalls anleitenden Person, Publikum, Dokumentation und Raum werden vorab vereinbart.
+
+(4) Ein Orgasmus kann nicht garantiert werden.
+
+(5) Jede sexuelle Handlung, an der andere Personen beteiligt sind, setzt die konkrete, ausdrückliche und aktuelle Zustimmung aller unmittelbar Beteiligten voraus. Diese Zustimmung kann jederzeit zurückgenommen werden. § 6 Abs. 7 gilt uneingeschränkt.
+
+(6) Aufnahmen und Veröffentlichungen aus dem Modul richten sich nach § 5a Nr. 8 und 9; sie dürfen nur Erwachsene zeigen, die der Aufnahme zugestimmt haben.
 
 ## § 7 Vorausentscheidung und Selbstbindung
 
