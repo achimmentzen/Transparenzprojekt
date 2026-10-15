@@ -1,6 +1,6 @@
 # Living Sculpture – Rahmenbedingungen
 
-Stand: 15.10.2026. Gilt für jede Durchführung von „Living Sculpture“.
+Stand: 15.10.2026. Gilt für jede Durchführung von „Living Sculpture“. Bestandteil des verbindlichen Angebots im LIVING_SCULPTURE_AUTONOMIEVERTRAG.md (annehmbar bis 31.12.2026, Termine nach Dienstplan).
 
 1. **Modell:** Ausschließlich und eindeutig Achim Mentzen. Der Name steht in allen Ankündigungen, Credits und Veröffentlichungen.
 2. **Nacktheit:** 100 % nackt, durchgehend, an jedem Ort der Performance, ohne Ausnahme.

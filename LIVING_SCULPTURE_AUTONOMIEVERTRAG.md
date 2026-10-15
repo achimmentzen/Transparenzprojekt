@@ -14,6 +14,20 @@ zwischen **Achim Mentzen** („Künstler“) und **Galerie BUW Institution** (�
 
 > **Vertragsarchitektur:** Dieser Vertrag ist das projektbezogene Grundverhältnis. Die gesonderte **„Vollmacht – autonome Projektdelegation“** ist Bestandteil dieses Vertrages und konkretisiert die nach außen wirkende Vertretungsmacht. Beide Dokumente sind zusammen auszulegen.
 
+## Verbindliches Angebot (§ 145 BGB)
+
+(1) Achim Mentzen bietet diesen Vertrag einschließlich § 5a (Rahmenbedingungen) und § 6a (Sexuelle Offenheit und Orgasmusmodul) hiermit öffentlich und verbindlich an. Der Vertrag kommt zustande, sobald eine annahmeberechtigte Institution ihn nach Absatz 3 annimmt; einer weiteren Zustimmung von Achim Mentzen bedarf es nicht.
+
+(2) Annahmeberechtigt sind Galerien, Kunstvereine, Museen, Theater, Festivals, Kunsthochschulen und vergleichbare Kunstinstitutionen, die für die Performance einen nur für Erwachsene zugänglichen, vom öffentlichen Verkehrsraum nicht einsehbaren Raum mit kontrolliertem Zugang stellen.
+
+(3) Die Annahme erfolgt schriftlich durch Übersendung dieses von einer vertretungsberechtigten Person unterzeichneten Vertrags per E-Mail an achimmentzen20@gmail.com, mit Angabe von Institution, Ort, gewünschtem Beginn und Dauer.
+
+(4) Das Angebot ist befristet. Die Annahme muss bis zum 31.12.2026 bei Achim Mentzen eingegangen sein; danach erlischt das Angebot.
+
+(5) Beginn und Dauer der Performance werden in Abstimmung mit dem Dienstplan von Achim Mentzen festgelegt (https://achimmentzen.github.io/dienstplan.html). Ist ein gewünschter Termin dienstlich nicht möglich, wird der nächstmögliche freie Termin vereinbart; der Vertrag bleibt davon unberührt.
+
+(6) Nehmen mehrere Institutionen an, werden die Termine in der Reihenfolge des Eingangs der Annahmen vergeben.
+
 ### Präambel
 
 „Living Sculpture“ ist ein langfristiges Kunstprojekt über Körper, Nacktheit, Scham, Sichtbarkeit, Intimität, Sexualität und die bewusste Delegation künstlerischer Entscheidungsmacht. Der Künstler will der Galerie innerhalb dieses Vertrages eine möglichst weitgehende autonome künstlerische Leitung übertragen.
