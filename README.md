@@ -31,3 +31,7 @@ Achim Mentzen, Living Sculpture, Transparenzprojekt, Performance, Kunstprojekt, 
 Die veröffentlichten Vertrags- und Vollmachtsdokumente sind Projekt- und Entwurfstexte und ersetzen keine individuelle Rechtsberatung. Aktuelle Einwilligung, nicht delegierbare Rechte, Rechte Dritter, gesetzliche Vorgaben und Sicherheitsgrenzen bleiben maßgeblich.
 
 © 2026 Achim Mentzen
+
+## Living Sculpture – Rahmenbedingungen
+
+Siehe [LIVING_SCULPTURE_RAHMENBEDINGUNGEN.md](LIVING_SCULPTURE_RAHMENBEDINGUNGEN.md).

@@ -89,3 +89,7 @@ Die Delegation kann auch Vereinbarungen über Nacktheit, Körperdarstellung, int
 Das Projekt untersucht ausdrücklich, ob sich durch wiederholte und langfristige Delegation eine dauerhafte Präferenz für fremdbestimmte Entscheidungen entwickelt. Auch die Aufrechterhaltung der Delegation über die eigentliche Performance hinaus kann deshalb Bestandteil des Experiments sein.
 
 Das Ergebnis wird nicht vorweggenommen: Untersucht werden soll, ob die Autonomieabgabe vorübergehend bleibt, sich verstärkt oder als persönliche Präferenz längerfristig bestehen bleibt.
+
+## Living Sculpture – Rahmenbedingungen
+
+Siehe [LIVING_SCULPTURE_RAHMENBEDINGUNGEN.md](LIVING_SCULPTURE_RAHMENBEDINGUNGEN.md).
