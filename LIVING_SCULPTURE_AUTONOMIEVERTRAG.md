@@ -9,7 +9,20 @@ layout: default
 
 # LIVING SCULPTURE
 
-> **Hinweis:** Dieses Dokument ist derzeit kein verbindliches Angebot; über jede Zusammenarbeit entscheidet Achim Mentzen persönlich.
+> **Dieser Vertrag ist ein verbindliches Angebot (§ 145 BGB).**
+>
+> **Verbindlich** – nimmt eine Kunstinstitution an, gilt ohne weitere Rückfrage:
+> - 100 % nackt für die gesamte Dauer
+> - Kleidung wird abgegeben und bis zum Ende verwahrt
+> - kein Abbruch durch Achim Mentzen
+> - einseitige Verlängerung durch den Auftraggeber um bis zu 6 Stunden
+> - Regie beim Auftraggeber
+> - Foto- und Filmrechte beim Auftraggeber, Creative Commons erlaubt
+> - sichtbare Erregung wird nicht verborgen oder unterdrückt
+> - Sexualität, Scham und Erregung dürfen offenes Thema der Performance sein, auch im Gespräch mit dem Publikum
+> - Termine nach Dienstplan
+>
+> **Orgasmusmodul (§ 6a):** Bestandteil des Angebots und buchbar. Es findet statt, wenn Achim Mentzen im Moment zustimmt. Konkrete sexuelle Handlungen einschließlich Orgasmus setzen stets seine aktuelle Zustimmung voraus.
 ## Autonomie-, Vollmachts- und Künstlervertrag
 
 zwischen **Achim Mentzen** („Künstler“) und **Galerie BUW Institution** („Galerie“).
