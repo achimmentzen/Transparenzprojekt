@@ -158,7 +158,7 @@ Die Performance darf ausdrücklich auch radikale Sexualität als künstlerische 
 
 (2) Das Orgasmusmodul („Fremdbestimmter Orgasmus“, 80 Minuten) ist ein eigenständiges Modul innerhalb der Ausstellung. Es untersucht das Spannungsfeld zwischen äußerer Regie, Körperwahrnehmung, Intimität, Sichtbarkeit und Selbstbestimmung. Die Regie liegt bei der Galerie bzw. dem Auftraggeber.
 
-(2a) Ablauf: Der Künstler stimuliert sich selbst; Tempo, Pausen, Körperhaltung und Intensität bestimmen Regie und Publikum durch Anweisungen. Das Modul gliedert sich in drei Phasen:
+(2a) Ablauf: Der Künstler wird fremdstimuliert, durch eine oder mehrere erwachsene Personen, die die Regie vorab bestimmt; Tempo, Pausen, Körperhaltung und Intensität bestimmen Regie und Publikum. Das Modul gliedert sich in drei Phasen:
 1. Steigerung – schrittweise Erregung nach Anweisung, mit Pausen und Wiederaufnahmen nach Vorgabe von Regie und Publikum;
 2. Höhepunkt – Orgasmus, sofern er sich einstellt;
 3. Darüber hinaus – die Stimulation wird nach dem Höhepunkt nach Anweisung fortgesetzt, bis die 80 Minuten erreicht sind.
@@ -167,7 +167,7 @@ Die Performance darf ausdrücklich auch radikale Sexualität als künstlerische 
 
 (2c) Verlängerung: Nach 80 Minuten kann das Publikum über eine Verlängerung abstimmen, jeweils in Schritten von bis zu 10 Minuten. Eine Verlängerung findet statt, wenn der Künstler im Moment zustimmt.
 
-(2d) Ohne Beteiligung Dritter: Andere Personen berühren den Künstler im Modul nicht; Regie und Publikum wirken ausschließlich durch Anweisungen.
+(2d) Fremdstimulation: Jede stimulierende Person handelt nur mit ihrer eigenen, freiwilligen und aktuellen Zustimmung und kann jederzeit aufhören. Andere Personen als die vorab bestimmten berühren den Künstler nicht. Hygiene- und Schutzmaßnahmen werden vorab vereinbart.
 
 (2e) Der Künstler kann das Modul jederzeit pausieren oder beenden; die Fortsetzung jeder Phase setzt seine aktuelle Zustimmung voraus. Ein Abbruch des Moduls beendet nicht die übrige Performance.
 
