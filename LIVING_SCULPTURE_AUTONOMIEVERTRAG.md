@@ -8,6 +8,8 @@ layout: default
 > **Künstlerisches Forschungsprojekt über Körper, Scham und Autonomie · Nur für Erwachsene · Keine expliziten Inhalte**
 
 # LIVING SCULPTURE
+
+> **Hinweis:** Dieses Dokument ist derzeit kein verbindliches Angebot; über jede Zusammenarbeit entscheidet Achim Mentzen persönlich.
 ## Autonomie-, Vollmachts- und Künstlervertrag
 
 zwischen **Achim Mentzen** („Künstler“) und **Galerie BUW Institution** („Galerie“).
