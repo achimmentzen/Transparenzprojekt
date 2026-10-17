@@ -31,7 +31,7 @@ zwischen **Achim Mentzen** („Künstler“) und **Galerie BUW Institution** (�
 
 ## Verbindliches Angebot (§ 145 BGB)
 
-(1) Achim Mentzen bietet diesen Vertrag einschließlich § 5a (Rahmenbedingungen) und § 6a (Sexuelle Offenheit und Orgasmusmodul) hiermit öffentlich und verbindlich an. Der Vertrag kommt zustande, sobald eine annahmeberechtigte Institution ihn nach Absatz 3 annimmt; einer weiteren Zustimmung von Achim Mentzen bedarf es nicht.
+(1) Achim Mentzen bietet diesen Vertrag einschließlich § 5a (Rahmenbedingungen) hiermit öffentlich und verbindlich an. Der Vertrag kommt zustande, sobald eine annahmeberechtigte Institution ihn nach Absatz 3 annimmt; einer weiteren Zustimmung von Achim Mentzen bedarf es nicht. § 6a (Sexuelle Offenheit und Orgasmusmodul) ist Bestandteil des Angebots und buchbar; das Orgasmusmodul und jede konkrete sexuelle Handlung finden jedoch nur statt, wenn Achim Mentzen im Moment zustimmt.
 
 (2) Annahmeberechtigt sind Galerien, Kunstvereine, Museen, Theater, Festivals, Kunsthochschulen und vergleichbare Kunstinstitutionen, die für die Performance einen nur für Erwachsene zugänglichen, vom öffentlichen Verkehrsraum nicht einsehbaren Raum mit kontrolliertem Zugang stellen.
 
@@ -157,6 +157,19 @@ Die Performance darf ausdrücklich auch radikale Sexualität als künstlerische 
 (1) Sexuelle Offenheit ist ausdrücklicher Bestandteil von „Living Sculpture“ im Rahmen von § 6.
 
 (2) Das Orgasmusmodul („Fremdbestimmter Orgasmus“, 80 Minuten) ist ein eigenständiges Modul innerhalb der Ausstellung. Es untersucht das Spannungsfeld zwischen äußerer Regie, Körperwahrnehmung, Intimität, Sichtbarkeit und Selbstbestimmung. Die Regie liegt bei der Galerie bzw. dem Auftraggeber.
+
+(2a) Ablauf: Der Künstler stimuliert sich selbst; Tempo, Pausen, Körperhaltung und Intensität bestimmen Regie und Publikum durch Anweisungen. Das Modul gliedert sich in drei Phasen:
+1. Steigerung – schrittweise Erregung nach Anweisung, mit Pausen und Wiederaufnahmen nach Vorgabe von Regie und Publikum;
+2. Höhepunkt – Orgasmus, sofern er sich einstellt;
+3. Darüber hinaus – die Stimulation wird nach dem Höhepunkt nach Anweisung fortgesetzt, bis die 80 Minuten erreicht sind.
+
+(2b) Dokumentation: Die körperlichen Reaktionen (Erregung, Höhepunkt, Verhalten danach) werden sichtbar gemacht und dokumentiert, insbesondere durch Foto-/Videoaufnahme sowie Zeitprotokoll von Phasen, Pausen und Höhepunkt(en).
+
+(2c) Verlängerung: Nach 80 Minuten kann das Publikum über eine Verlängerung abstimmen, jeweils in Schritten von bis zu 10 Minuten. Eine Verlängerung findet statt, wenn der Künstler im Moment zustimmt.
+
+(2d) Ohne Beteiligung Dritter: Andere Personen berühren den Künstler im Modul nicht; Regie und Publikum wirken ausschließlich durch Anweisungen.
+
+(2e) Der Künstler kann das Modul jederzeit pausieren oder beenden; die Fortsetzung jeder Phase setzt seine aktuelle Zustimmung voraus. Ein Abbruch des Moduls beendet nicht die übrige Performance.
 
 (3) Das Modul findet ausschließlich vor Erwachsenen statt, in einem vom öffentlichen Verkehrsraum nicht einsehbaren Raum mit kontrolliertem Zugang. Ablauf, Rolle einer gegebenenfalls anleitenden Person, Publikum, Dokumentation und Raum werden vorab vereinbart.
 
