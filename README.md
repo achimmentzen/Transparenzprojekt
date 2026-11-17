@@ -22,6 +22,12 @@ https://achimmentzen.github.io/
 - Entscheidungslog
 - Pressemitteilung
 
+## Neue Arbeitsdokumente – Version 7.0
+
+- [Projektordnung 7.0](LIVING_SCULPTURE_PROJEKTORDNUNG_7_0.md)
+- [Künstlervertretung und Buchungsvollmacht – Entwurf](KUENSTLERVERTRETUNG_BUCHUNGSVOLLMACHT_ENTWURF.md)
+- [Operativer Ablauf der Öffentlichkeitsarbeit](PROJEKTABLAUF_OEFFENTLICHKEITSARBEIT.md)
+
 ## Suchbegriffe
 
 Achim Mentzen, Living Sculpture, Transparenzprojekt, Performance, Kunstprojekt, Körper, Nacktheit, Scham, Autonomie, Selbstbestimmung, Fremdbestimmung, Öffentlichkeit, freiwillige Delegation, Performancekunst.
