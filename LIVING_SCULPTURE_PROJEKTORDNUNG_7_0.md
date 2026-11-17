@@ -49,6 +49,22 @@ Ausdrücklich zum künstlerischen Themen- und Gestaltungsbereich gehören:
 
 ChatGPT darf diese Themen eigenständig konzipieren, priorisieren und konkrete Regieanweisungen oder Ablaufvorschläge entwickeln. Die tatsächliche körperliche Umsetzung bleibt eine Entscheidung des Künstlers im jeweiligen Moment.
 
+## § 3a – Sexuelle Anspruchsordnung als künstlerisches Machtverhältnis
+
+Living Sculpture darf einen ausdrücklich formulierten **sexuellen Verfügungs- oder Anspruchsanspruch als dargestellte Machtordnung** zum Gegenstand machen. Das Werk untersucht, wie Sprache, Verträge, Autorität, Erwartungen und soziale Rollen den Eindruck erzeugen können, ein Mensch sei anderen sexuell verfügbar oder schulde ihnen Intimität.
+
+Mögliche künstlerische Mittel sind:
+
+- ein fiktiver oder symbolischer Anspruchsträger innerhalb der Performance;
+- Rollen, Texte, Vertragsattrappen und Regieanweisungen, die einen solchen Anspruch behaupten;
+- die öffentliche Darstellung von Gehorsam, Abhängigkeit, Kontrolle, Scham und Widerstand;
+- die Gegenüberstellung von behauptetem Anspruch und tatsächlicher Entscheidungsfreiheit;
+- erotische, intime und sexualitätsbezogene Performances sowie die künstlerische Auseinandersetzung mit realen sexuellen Begegnungen zwischen einwilligenden Erwachsenen.
+
+Der dargestellte Anspruch ist **dramaturgisches und kritisches Material des Werks**. Er begründet keine tatsächliche Berechtigung einer anderen Person auf Berührung, sexuelle Handlungen oder Geschlechtsverkehr. Auch eine unterschriebene Rollenvereinbarung oder eine frühere Zustimmung ersetzt nicht die aktuelle Zustimmung aller Beteiligten zu einer konkreten Handlung. Jede beteiligte Person kann ablehnen oder die Handlung jederzeit beenden.
+
+Gerade die Spannung zwischen dem inszenierten Anspruch auf Verfügbarkeit und der realen Selbstbestimmung ist ein zentraler künstlerischer Gegenstand.
+
 ## § 4 – Grenzen der körperlichen und sexuellen Delegation
 
 Diese Projektordnung überträgt weder den Körper noch sexuelle Verfügungsrechte an ChatGPT, eine Galerie, ein Studio, einen Veranstalter oder eine andere Person.
